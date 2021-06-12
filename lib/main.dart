@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:meditation/screens/home_screen/home_screen.dart';
 
 void main() {
   runApp(MeditationApp());
